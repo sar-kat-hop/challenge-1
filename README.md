@@ -10,18 +10,19 @@ N/A
 
 ## Screenshot
 
-[(/develop/assets/images/challenge1-webpage.jpeg)]
+You can view a screenshot of the webpage in this repo [here] (./develop/assets/images/challenge1-webpage.jpeg)
 
 *Note: The appearance and functionality of the webpage was not changed from the source code.*
 
 ## Link to Deployed Site
-[(link)]
+
+The deployed website can be viewed [here] (link).
 
 ## Contributing
 
-The source code for this assignment can be found at [(https://github.com/coding-boot-camp/urban-octo-telegram)].
+The source code for this assignment can be found on this [GitHub repo] (https://github.com/coding-boot-camp/urban-octo-telegram).
 
 ## License
 
-Please see the included license file at (/LICENSE).
+Please see the included license file in this repo.
 
