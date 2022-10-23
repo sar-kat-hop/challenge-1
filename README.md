@@ -16,7 +16,7 @@ You can view a screenshot of the webpage in this repo [here](https://github.com/
 
 ## Link to Deployed Site
 
-The deployed website can be viewed [here](link).
+The deployed website can be viewed [here](https://sar-kat-hop.github.io/challenge-1/).
 
 ## Contributing
 
