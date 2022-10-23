@@ -10,17 +10,17 @@ N/A
 
 ## Screenshot
 
-You can view a screenshot of the webpage in this repo [here] (./develop/assets/images/challenge1-webpage.jpeg)
+You can view a screenshot of the webpage in this repo [here](https://github.com/sar-kat-hop/challenge-1/blob/main/Develop/assets/images/challenge1-webpage.jpeg).
 
 *Note: The appearance and functionality of the webpage was not changed from the source code.*
 
 ## Link to Deployed Site
 
-The deployed website can be viewed [here] (link).
+The deployed website can be viewed [here](link).
 
 ## Contributing
 
-The source code for this assignment can be found on this [GitHub repo] (https://github.com/coding-boot-camp/urban-octo-telegram).
+The source code for this assignment can be found on this [GitHub repo](https://github.com/coding-boot-camp/urban-octo-telegram).
 
 ## License
 
